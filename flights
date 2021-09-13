@@ -1,0 +1,4 @@
+INSERT INTO flights (origin,destination,duration) VALUES ("Moscow","Srinagar",200);
+INSERT INTO flights (origin,destination,duration) VALUES ("Moscow","mumbai",300);
+INSERT INTO flights (origin,destination,duration) VALUES ("vladivastok","new delhi",440);
+INSERT INTO flights (origin,destination,duration) VALUES ("srinagar","tokyo",500);
